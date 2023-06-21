@@ -1,0 +1,6 @@
+### Execute:
+
+```shell
+$ ./scrap.sh
+```
+
